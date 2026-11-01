@@ -7,6 +7,7 @@ fun main (){
 
     else {
         max=num2
+
     }
 
 
